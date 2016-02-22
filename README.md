@@ -1,2 +1,3 @@
-# Sleep_Override tiny Chrome extension to disable sleep on p.c when triggered.
+# Sleep_Override chrome extension.
+Tiny Chrome extension to disable sleep on p.c when activated.
 I made this to prevent monitor from going to sleep when listening to podcasts ect..
